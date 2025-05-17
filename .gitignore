@@ -1,0 +1,31 @@
+# OS junk
+.DS_Store
+
+# Logs
+*.log
+
+# Build output
+bin/
+build/
+*.out
+
+# Environment
+.env
+setupenv.sh
+
+# Docker
+*.local.yml
+docker-compose.override.yml
+all_code.txt
+
+# Editor junk
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Compiled Go binaries (just in case)
+*.exe
+*.dll
+*.so
+*.dylib

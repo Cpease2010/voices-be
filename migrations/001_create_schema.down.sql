@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS engagements;
+DROP TABLE IF EXISTS trustee_profiles;
+DROP TABLE IF EXISTS users;
